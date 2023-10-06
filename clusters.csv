@@ -1,0 +1,6 @@
+Cluster Name,RA,Dec,Num Stars,Angular Size,Too Dense,Too Sparse,Photometry,CMD,Good CMD,Brightest Stars, Use?
+Berkeley 85,"20 18 55,+37 45 33",1235,~10am,No,No,None,None,N/A,N/A,No
+Berkeley 86,"20 20 24,+38 42 00",375,~10am,No,Maybe,Yes,Yes,No,8mag,No
+Collinder 421,"20 23 10,+41 41 35",826,~14am,No,No,Yes,Yes,Yes,9mag,Yes
+NGC 6910,"20 23 12,+40 46 42",206,~20am,No,No,Yes,Yes,Yes,8mag,No
+Berkeley 89,"20 24 36, +46 03 00",585,~10am,No,No,Yes,Yes,Yes,11mag,Yes
